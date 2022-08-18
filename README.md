@@ -1,7 +1,7 @@
 ## Oie! eu sou o Artur Rosário
 
 - 💻 Atualmente Trabalho com .Net na tesouraria do Bradesco S.A
-- 🌱 Estou Estudando POO, S.O.LI.D e SCRUM
+- 🌱 Estou Estudando POO, S.O.L.I.D. e SCRUM
 - 📫 Contate-me através do e-mail artur.rosario.673@gmail.com
 - 😄 Pronomes Ele/Dele
 
@@ -16,7 +16,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Artur-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Artur-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Artur-MsSqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">         
+  <img align="center" alt="Artur-MsSqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">         
   <img align="center" alt="Artur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Artur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Artur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
