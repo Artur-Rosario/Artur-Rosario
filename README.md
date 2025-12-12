@@ -1,6 +1,6 @@
 ## Oie! eu sou o Artur Rosário
 
-- 💻 Atualmente Trabalho com .Net na tesouraria do Bradesco S.A
+- 💻 Desenvolvedor Backend
 - 🌱 Estou Estudando POO, S.O.L.I.D. e SCRUM
 - 📫 Contate-me através do e-mail artur.rosario.673@gmail.com
 - 😄 Pronomes Ele/Dele
