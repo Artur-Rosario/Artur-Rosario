@@ -1,4 +1,4 @@
-## Oie! eu sou o Artur Rosário
+## Hello World!! Meu nome é Artur Rosário
 
 - 💻 Desenvolvedor Backend
 - 🌱 Estou Estudando POO, S.O.L.I.D. e SCRUM
